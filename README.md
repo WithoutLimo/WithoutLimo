@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @WithoutLimo
-- 👀 I’m interested in physics, mathematics, programming and design.
+- 👀 I’m interested in physics, mathematics, programming (webdev, low level stuff, graphics) and design.
+- 👅 My favorite languages are Rust and Zig.
 - ⚡ Fun fact: I don't hava a limousine. 
