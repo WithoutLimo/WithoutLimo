@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WithoutLimo
+- 👋 Hello there, my name is Noel
 - 👀 I’m interested in physics, mathematics, programming (webdev, low level stuff, graphics) and design.
 - 👅 My favorite languages are Rust and Zig.
 - ⚡ Fun fact: I don't hava a limousine. 
